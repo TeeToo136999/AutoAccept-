@@ -1,0 +1,12 @@
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.csproj.AssemblyReference.cache
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.csproj.ResolveComReference.cache
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.Form1.resources
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.Properties.Resources.resources
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.csproj.GenerateResource.cache
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.csproj.CoreCompileInputs.cache
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\bin\Debug\lolautoaccept.exe.config
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\bin\Debug\lolautoaccept.exe
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\bin\Debug\lolautoaccept.pdb
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.exe
+C:\Users\TeeTo\source\repos\lolautoaccept\lolautoaccept\obj\Debug\lolautoaccept.pdb
